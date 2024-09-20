@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d4634909981a8049a1e1743615bdd11, type: 3}
+  m_Name: Pet
+  m_EditorClassIdentifier: 
+  Top:
+    Type: 0
+    Power: 2
+    Buf: 0
+    Debuf: 0
+  Left:
+    Type: 0
+    Power: 2
+    Buf: 0
+    Debuf: 0
+  Right:
+    Type: 3
+    Power: 2
+    Buf: 0
+    Debuf: 0
+  Bottom:
+    Type: 3
+    Power: 2
+    Buf: 0
+    Debuf: 0
+  Front:
+    Type: 4
+    Power: 3
+    Buf: 0
+    Debuf: 0
+  Backward:
+    Type: 2
+    Power: 1
+    Buf: 0
+    Debuf: 1
+  Pictures: {fileID: 11400000, guid: df57ea3b5fb116d48a54c61e88225101, type: 2}
+  CurrentSide: 0

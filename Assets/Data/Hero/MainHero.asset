@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9a46961435e1c409533053e5e8cee7, type: 3}
+  m_Name: MainHero
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 21300000, guid: 5d67e3d1a2e24e943b436cfb4b0d68a7, type: 3}
+  handDatas:
+  - {fileID: 11400000, guid: ed1ab7034d0301e47be7d07343d99f90, type: 2}
+  - {fileID: 11400000, guid: e1fcd7dc12cc0404d85f7cbac90b1434, type: 2}
+  - {fileID: 11400000, guid: 38f9def04ba111742a1441d16606b06d, type: 2}
+  - {fileID: 11400000, guid: 0ed387ba76816c944a74dbe2bb533c59, type: 2}
+  - {fileID: 11400000, guid: c90fdf05b2b6d364cbdcae65fedf3b91, type: 2}
+  maxHealsPoints: 20
+  maxShieldPoints: 5
